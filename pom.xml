@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.gamemanagment</groupId>
-    <artifactId>Odev1</artifactId>
+    <artifactId>GameSellManagement</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
